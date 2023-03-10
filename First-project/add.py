@@ -1,3 +1,3 @@
-a = 5
-b = 10
-print (a-b);
+from datetime import datetime
+now = datetime.now()
+print(now)
